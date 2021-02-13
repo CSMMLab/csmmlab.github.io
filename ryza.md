@@ -6,6 +6,8 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 +++
 @def tags = ["syntax", "code"]
 
+Ryza is a self-assembled computer group-wise usage.
+
 # Table of contents
 
 \toc
