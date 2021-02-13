@@ -39,6 +39,7 @@ Ryza is a self-assembled computer for group-wise usage.
 - jupyter: /opt/anaconda3/bin/jupyter
 - python: /opt/anaconda3/bin/python
 - zerotier: /usr/sbin/zerotier-cli
+- phoronix-test-suite: /usr/bin/phoronix-test-suite
 
 ### APT modules installed as root:
 - general: gcc, git, ...
