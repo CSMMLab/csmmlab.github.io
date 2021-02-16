@@ -1,6 +1,6 @@
-@def title = "CSMM"
+@def title = "Computational Science and Mathematical Methods"
 @def tags = ["syntax", "code"]
 
-Information page of research group [Computational Science and Mathematical Methods](https://www.scc.kit.edu/en/aboutus/rg-csmm.php)
+Information page of [CSMM research group](https://www.scc.kit.edu/en/aboutus/rg-csmm.php)
 
 * [Ryza](/ryza/)
