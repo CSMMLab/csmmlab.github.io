@@ -23,15 +23,15 @@ Ryza is a self-assembled computer for group-wise usage.
 - Don’t use more than 400GB Disk space
 - Think before you type
 
-## Admin philosophy
-- Manually installed software should be installed to /opt/ or /usr/local
-⇒ add the path to /etc/environment s.t. all users can use the programm
-
 ## Current base
 - Room 3.020, CS 20.30
 
 ## Access
 - IP: 129.13.160.119 (only accessible within KIT intranet)
+
+## Admin philosophy
+- Manually installed software should be installed to /opt/ or /usr/local
+⇒ add the path to /etc/environment s.t. all users can use the programm
 
 ## Softwares available
 - anaconda: /opt/anaconda3
@@ -45,3 +45,6 @@ Ryza is a self-assembled computer for group-wise usage.
 - general: gcc, git, ...
 - fish
 - screen
+- openmpi
+- libblas-dev
+- liblapack-dev
