@@ -40,6 +40,7 @@ Ryza is a self-assembled computer for group-wise usage.
 - python: /opt/anaconda3/bin/python
 - zerotier: /usr/sbin/zerotier-cli
 - phoronix-test-suite: /usr/bin/phoronix-test-suite
+- vtk: /usr/local/include/vtk-9.0 & /usr/local/lib/vtk
 
 ### APT modules installed as root:
 - general: gcc, git, ...
