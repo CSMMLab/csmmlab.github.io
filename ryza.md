@@ -48,3 +48,5 @@ Ryza is a self-assembled computer for group-wise usage.
 - openmpi
 - libblas-dev
 - liblapack-dev
+- libgl1-mesa-dev
+- mesa-common-dev
